@@ -1,0 +1,634 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamentatioũ of Lady Scotland compylit be hir self speiking in maner of ane epistle, in the moneth of Marche, the zeir of God. 1572..</title>
+            <author>P. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1572</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08075</idno>
+            <idno type="STC">STC 22011</idno>
+            <idno type="STC">ESTC S95134</idno>
+            <idno type="EEBO-CITATION">68222872</idno>
+            <idno type="OCLC">ocm 68222872</idno>
+            <idno type="VID">183824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183824)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2201:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamentatioũ of Lady Scotland compylit be hir self speiking in maner of ane epistle, in the moneth of Marche, the zeir of God. 1572..</title>
+                  <author>P. R.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Be Robert Lekpreuik.,</publisher>
+                  <pubPlace>Jmprentit at Sanctandrois :</pubPlace>
+                  <date>1572..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Printed in black letter.</note>
+                  <note>Signature: A⁸.</note>
+                  <note>Imperfect: print bleeding, and show-through.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Social conditions --  16th century --  Poetry --  Early works to 1800.</term>
+               <term>Scotland --  Religion --  16th century --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183824:1"/>
+            <pb facs="tcp:183824:1"/>
+            <pb facs="tcp:183824:2"/>
+            <pb facs="tcp:183824:2"/>
+            <pb facs="tcp:183824:3"/>
+            <pb facs="tcp:183824:3"/>
+            <pb facs="tcp:183824:4"/>
+            <pb facs="tcp:183824:4" rendition="simple:additions"/>
+            <p>The Lamentatiou<g ref="char:cmbAbbrStroke">̄</g> of Lady Scotland Compylit be hir ſelf, ſpeiking in maner of ane Epiſtle, in the Moneth of Marche, the ȝeir of God. <hi>1572.</hi>
+            </p>
+            <p>¶ Imprentit at Sanctandrois Be Robert Lekpreuik. <hi>1572.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:183824:5"/>
+            <pb facs="tcp:183824:5" rendition="simple:additions"/>
+            <head>¶ To the richt honourabill and godly leir<g ref="char:EOLhyphen"/>nit Gentilman the Laird of Dune Mini<g ref="char:EOLhyphen"/>ſter of Goddis word, and Superintendent of his Kirk in Angous, Mernis. &amp;c. P. R. his humbill Seruant. S.</head>
+            <l>TO quhome ſuld I my Rurall veirſe direct,</l>
+            <l>Bot vnto him that can thame weill correct,</l>
+            <l>Befoir quhome ſuld this mater ga to licht,</l>
+            <l>Bot to ane Faithfull Godly Chriſtin Knicht,</l>
+            <l>To quhome can I this lytill throuch propyne,</l>
+            <l>Bot vnto ane of Excellent Ingyne,</l>
+            <l>Not for the termes nor for the worthynes,</l>
+            <l>Of ony thing that I do heir expres:</l>
+            <l>Bot for becaus I aucht of bound dewtie</l>
+            <l>To dedicat to him ſum Noueltie.</l>
+            <l>Go bill than to the Laird of Dune I ſend the,</l>
+            <l>Beſeiking him to tak his pen and mend the,</l>
+            <l>Mend the (alaik) quhy ſuld he tals that pane:</l>
+            <l>To ſicht the ones it will bot vex his brane</l>
+            <l>For as in ſum Schyre thair is bot ane myre</l>
+            <l>Quhilk is ouir all that man and beiſt dois tyre:</l>
+            <l>Sa into the he ſall bot ane fault find</l>
+            <l>Quhilk is ouir all befoir and als behind.</l>
+            <l>Ȝit not the les I knaw him ſa diſcreit,</l>
+            <l>Gif he mend not thy veirſe and haulting feit</l>
+            <l>Ȝit at the leiſt ſa ſurely he will byde the</l>
+            <l>That Poets nane ſall ſe the to diryde the,</l>
+            <l>Pas on than bauldly and to him deploir</l>
+            <l>This preſent ſtait, fair weill I ſay no moir.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:183824:6"/>
+            <head>¶ The Lamentationn of Lady Scotland compylit be hir ſelf, ſpeiking in maner of ane Epiſtle, in the Moneth of Marche ye ȝeir of God <hi>1572.</hi>
+            </head>
+            <lg>
+               <l>ȜE vapurs wak and warters in the air</l>
+               <l>Ȝe Seyis ſa deid, ȝe fludis and Fontanis fair</l>
+               <l>Heir my complaint to ȝow my cace I mene</l>
+               <l>That ȝe may wellis gif to my febill Ene</l>
+               <l>To teſtifie with teiris my wofull cace</l>
+               <l>And with ȝour murning weid abſconſe my face.</l>
+            </lg>
+            <lg>
+               <l>¶ My huſband deir gude Iohne the co<g ref="char:cmbAbbrStroke">̄</g>moun weill</l>
+               <l>To quhome I did all my affairis reueill,</l>
+               <l>As he to me did in our faithfull dayis</l>
+               <l>But fraude, or gyle or treſſoun ony wayis,</l>
+               <l>Than luſty gay and fluriſching wer we.</l>
+               <l>Trew faithfull Children he begat on me</l>
+               <l>Sic lufe and faith to vther thay did beir,</l>
+               <l>That thay knew not quhat beiſt was Ciuile weir,</l>
+               <l>My heid wald not diſdane my leggis and feit,</l>
+               <l>My Eine foirſaw all perrallis micht me meit,</l>
+               <l>My hands and armes ay reddy to defend me,</l>
+               <l>To ſnib my Children gif thay did offend me,</l>
+               <l>My body was weill cled with Policie,</l>
+               <l>My Hat was of Iuſtice and Equitie,</l>
+               <l>My Coller of trew Nichtbour lufe it was</l>
+               <l>Weill prenit on with Kyndnes, and ſolas.</l>
+               <l>My Bluiffis wer of fre Liberalitie</l>
+               <l>My Sleiffis wer of, to borrow and len glaidlie,</l>
+               <l>My Lais and Mailȝeis of trew parmanence,</l>
+               <pb facs="tcp:183824:6"/>
+               <l>My Stomak maid was of clene Conſcience.</l>
+               <l>My waiſt was gyrdit with Sobrietie,</l>
+               <l>My Leggs and feit ſchod with Simplicitie.</l>
+               <l>My hart was haill, my ſtomach weill diſpoſit,</l>
+               <l>Of peice and reſt my Bowellis wer compoſit.</l>
+               <l>Quhat wald ȝe moir Schir commoun weill and I</l>
+               <l>Held hous lang tyme, bot Sathan had Inuy</l>
+               <l>To ſe vs ſo, than callit he Seditioun</l>
+               <l>With pryde his Sone to quhome he gaif co<g ref="char:cmbAbbrStroke">̄</g>miſſioun</l>
+               <l>To tak with thame diſcord and Nichthour feid</l>
+               <l>(Efter I mene that our gude barnis wer deid)</l>
+               <l>To poyſoun me with thair Infectir cryme,</l>
+               <l>With ſum of my awin Children of this tyme,</l>
+               <l>Of quhilks I pray the Lord God mak me fre,</l>
+               <l>Ambitioun will not lat thame aggre,</l>
+               <l>Thir mony ȝeiris thay haue me diſconfortit,</l>
+               <l>I trauell ȝit as I had thame aduortit,</l>
+               <l>The malice greit that ilk to vther beiris,</l>
+               <l>Dois ryfe my bowells with thair Ciuile weiris,</l>
+               <l>Sair boiſtit thay my huſband commoun weill,</l>
+               <l>And maid thair vowis with aithis him for to Keill.</l>
+               <l>In ony part quhair thay him with me fand</l>
+               <l>Quhairfoir, for feir he fled from me Scotland.</l>
+               <l>Away ſum ſayis to Veneis is he gone,</l>
+               <l>Or to the Swiſches as thay do ſuppone,</l>
+               <l>Quhair he is ſaif from danger, hurt, or ſkaith,</l>
+               <l>Heir wald he deit of cauld and hounger baith,</l>
+               <l>Thus am I left as wedow in diſtres,</l>
+               <l>For commoun weill, my bairnis left Fatherles.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:leaf">❧</g> Children I had in all vertewis porfyte</l>
+               <l>To peice, and Iuſtice was thair haill delyte.</l>
+               <l>Sum of diſpleſure deit for wo, and cair,</l>
+               <pb facs="tcp:183824:7"/>
+               <l>Sum wyrteit was, and blawin in the air</l>
+               <l>And ſum in Stirling fchot was to the deid,</l>
+               <l>That mair was geuin to peice nor Ciuile feid.</l>
+               <l>Bot ane was ſlane vnto my ſkaith and ſchame,</l>
+               <l>Becaus he ſocht to fetche my huſband hame,</l>
+               <l>He was my deir and beſt belouit Sone,</l>
+               <l>All that he did for my weilfair was done,</l>
+               <l>Lyke ane gude Medciner or gude Syruge,</l>
+               <l>Of euill humouris he did my body purge,</l>
+               <l>Quhat wald ȝe moir ſen Iames in Falkland deit,</l>
+               <l>Nane for my weill, ſa weill with me aggreit,</l>
+               <l>Nor ȝit ſa weill did lufe Schir Commoun weill,</l>
+               <l>Nor vnto me bure ſic ane feruent ȝeill.</l>
+               <l>Murdreiſt he was in Lythgow tratrouſlie,</l>
+               <l>The murtherars vnto my beid did fle,</l>
+               <l>Quhair thay tuik hald, and ȝit dois hald thame faſt</l>
+               <l>And ay ſenſyne my heid hes bene agaſt,</l>
+               <l>For quhy throw falſer and Subtillitie,</l>
+               <l>Thay chaiſt away Iuſtice, and Equitie,</l>
+               <l>For laik of quhilks my heid dois wark and ȝaik,</l>
+               <l>And all my body trymbill, dois and ſchaik,</l>
+               <l>For quhen the heid is ſeik the Prouerb is</l>
+               <l>That all the members be the worſe I wis.</l>
+            </lg>
+            <lg>
+               <l>¶ My claiths ar reuin that pietie is to ſe,</l>
+               <l>Particular weill hes ſpuilȝeit Policie,</l>
+               <l>My Coller rent is be Dame Fremitnes,</l>
+               <l>The Prenis thairof ar reft be ſad Nyſenes,</l>
+               <l>Dame Nigartnes my Gluifis hes hint away</l>
+               <l>Iak for him ſelf my Sleifis dois reiſt and ſtay.</l>
+               <l>My Lace and Mailȝeis tane be variance,</l>
+               <l>My Stomak worne is be diſſimulance,</l>
+               <l>My belt is cuttit of pure Gluttonie</l>
+               <pb facs="tcp:183824:7"/>
+               <l>My leggs and feit now ſchod with Pouertie</l>
+               <l>My hart is ſeik, my ſtomach keipis na meit</l>
+               <l>My bowells Rumbills, as thay wald vther eit.</l>
+               <l>Now for to couer all this vilannie</l>
+               <l>Ane Cloik thay gif me of authoritie,</l>
+               <l>Authoritie (alaik) na les thay mene</l>
+               <l>For thay deſyre neuer to ſe thair Quene,</l>
+               <l>Bot that thay may in hir Name bruik offices</l>
+               <l>With power to cleik vp the benefices.</l>
+               <l>Nane I excuſe on ather ſyde, for quhy</l>
+               <l>Ilk ane his awin hous ſeikis to edify,</l>
+               <l>And nane dois cair for Commoun weill ane Prene,</l>
+            </lg>
+            <lg>
+               <l>¶ I grant I had ane Douchter was ane Quene</l>
+               <l>Baith gude and fair, gentill and Liberall,</l>
+               <l>Dotit with verte wis and wit Naturall,</l>
+               <l>Prignant in Spreit in all things honourabill,</l>
+               <l>Luſty gude lyke, to all men fauourabill.</l>
+               <l>Schamefull to euill, baith honeſt meik and law,</l>
+               <l>Thir vertewis all, ſcho had quhyls ſcho ſtude a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Of God Eterne, as of hir Gouernour,</l>
+               <l>And quhen ſcho did regaird hir hie Honour.</l>
+               <l>Bot at the laſt throw filthy ſpeiche and countell,</l>
+               <l>That ſcho did heir of ſum curſt Rittie vnſell,</l>
+               <l>Fra ſcho gaif eir to ſir vyle bawderie</l>
+               <l>God, Schame, and honour, ſcho forret all thre</l>
+               <l>It wer to lang the vices to reheirſe</l>
+               <l>Quhairin from thyne ſcho did hir ſelf exerce.</l>
+               <l>The Reider wald thame think maiſt Inſolent,</l>
+               <l>Bot I thame leif becaus thay ar Recent.</l>
+               <l>For quhilks ſcho was thocht vnworthy to King</l>
+               <l>Ane Crowne to bruik, or ony Royall thing.</l>
+               <l>Sa all my Children with hir awin conſent</l>
+               <pb facs="tcp:183824:8"/>
+               <l>Depoſit hir in oppin Parliament</l>
+               <l>Than wald ſcho that thay ſuld hir awin ſone crowne</l>
+               <l>Quhilk thing thay did, ſa Syce vp and Sink to downe</l>
+               <l>God ſaue his grace, for quhy the ſame is he</l>
+               <l>In me that hes the trew authoritie.</l>
+               <l>Praiſit be God I haue <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re at command</l>
+               <l>That fair ȝoung Prince, in Stirling my richt hand<g ref="char:punc">▪</g>
+               </l>
+               <l>Wer not in hope I leif to ſe that day</l>
+               <l>That he ſall purge thir foull humburis away,</l>
+               <l>And me reſtoir agane vnto my helth,</l>
+               <l>Ȝea, caus my Children flurifche in all welth.</l>
+               <l>Wer not he is brocht vp in all gude thing</l>
+               <l>Affeiring to ane Godly Prince and King,</l>
+               <l>Be gude Lord Deddy my trew faithfull freind</l>
+               <l>Cum of ane race of men to me maiſt Kynd.</l>
+               <l>For Lady Minnie I dar <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak in hand</l>
+               <l>Happy is he hes ſic ane Gouernand.</l>
+               <l>Wer not thir things, that maks me leif in hope</l>
+               <l>At I <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ertie to ſe this Lyonn ſcope,</l>
+               <l>One day to Rore, and Ramp vpon his fois,</l>
+               <l>To bring thame law, that now ſa proudly gois,</l>
+               <l>Wer not thir thingis I ſay and otherrs mo</l>
+               <l>I wald dipair, and die for pane and wo.</l>
+               <l>To ȝow Vapouris and watters in the air</l>
+               <l>And ſey is ſa <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eip, I downe my plaint declair,</l>
+               <l>Ȝe ſey is I ſay, gif paſſage and ȝe can</l>
+               <l>Till ſum Faithfull to bring hame my gude man.</l>
+            </lg>
+            <lg>
+               <l>¶ And ȝe my Kirk my Faithfull Mother deir</l>
+               <l>That purgit art of Channoun, Monk, and Freir</l>
+               <l>Of Papiſt Preiſt, Papiſt and Papiſtrie</l>
+               <l>Bot not aſſace, clene of Hypocraſie,</l>
+               <l>Of auarice, pryde and ambitionn</l>
+               <pb facs="tcp:183824:8"/>
+               <l>Thocht ȝe haue left all Superſtitioun.</l>
+               <l>I grant the word of God is trewlie Preichit</l>
+               <l>And in the ſchuills Exerciſe trewlie teichit,</l>
+               <l>Ȝit ſayis the Commounis ȝe do not ȝour office,</l>
+               <l>For vpaland thay haue not dew ſeruice.</l>
+               <l>The rowmis appointit pepill to confidder</l>
+               <l>To heir Gods word, quhair thay ſuld pray togidder</l>
+               <l>Ar now conuertit in ſcheip Coits and Fauldis,</l>
+               <l>Or ells ar fallin, becaus nane thame vphauldis.</l>
+               <l>The Pariſche Kirks I mene thay ſa miſgyde</l>
+               <l>That nane for wynd and rane thairin may byde.</l>
+               <l>Thairfoir na pleſure tak thay of the tempill</l>
+               <l>Nor ȝit to cum quhair nocht is to contempill,</l>
+               <l>Bot Crawis and Dowis cryand and makand beir</l>
+               <l>That nane throuchly the Miniſter may heir:</l>
+               <l>Baith Fedders Fylth, and Doung dois ly abrod</l>
+               <l>Quhair folk ſuld ſit to heir the word of God,</l>
+               <l>Quhilk is occaſioun to the aduerſaryes</l>
+               <l>To mok and ſcorne ſic things befoir ȝour eyes.</l>
+               <l>Thus to diſdane the hous of Oriſoun</l>
+               <l>Dois mak folk cauld to thair Deuotioun</l>
+               <l>And als thay do diſdane to heir Gods word</l>
+               <l>Thinking the ſame to be ane Ieſting bourd,</l>
+               <l>Thay go to labour drinking or to play</l>
+               <l>And not to ȝow vpon the Sabboth day,</l>
+               <l>Sa thay prouoke the wraith of God allace,</l>
+               <l>Quhilk hes maid me to fall in this diſtres.</l>
+               <l>Ȝit ſuld I not blame ȝow that ſic dois periſche</l>
+               <l>Bot Lords and Lairds, &amp; Co<g ref="char:cmbAbbrStroke">̄</g>mouns of ilk Pariſche,</l>
+               <l>The quhilk wer wont for to caus euerie pleuch</l>
+               <l>In vphalding the Kirk to pay aneuch.</l>
+               <l>To do the ſame ȝe ſuld thame ȝit exhort</l>
+               <pb facs="tcp:183824:9"/>
+               <l>Togidder that thay ſuld the pure ſupport.</l>
+               <l>The Prouerb is of Palice Kirk and brig</l>
+               <l>Better in tyme to beit, nor efter to big.</l>
+               <l>Ȝe Collegis and Vniuerſitie,</l>
+               <l>That to all vthers ſuld exempill be,</l>
+               <l>I ſe ȝour tempills caſſin downe and reuin,</l>
+               <l>The maiſt part ar bot theikit with the heuin.</l>
+               <l>This quhilk to ȝow I do ſa planely wryte</l>
+               <l>The Commounis ſpeiks of ȝow and dois bakbyte</l>
+               <l>Amend ſic things I humblic ȝow beſeik,</l>
+               <l>And dit the mouths of thame that ſa dois ſpeik.</l>
+               <l>Making ȝour lyfis and Conuerſatiouns</l>
+               <l>To preiche and teiche lyke vnto ȝour perſouns.</l>
+               <l>It ſuld be ȝe Mother ſuld me Inſtruct</l>
+               <l>It ſuld be ȝe to Chriſt ſuld me conduct.</l>
+               <l>It ſuld be ȝe ſuld ſchaw me the richt way</l>
+               <l>How I ſuld ſerue my God baith nicht and day</l>
+               <l>It ſuld be ȝe that ſuld do diligence</l>
+               <l>For to aggre this Ciuile difference.</l>
+               <l>It ſuld be ȝe throw Preiching ſuld me mufe</l>
+               <l>To Cheritie and freindly Nichthour lufe,</l>
+               <l>It ſuld be ȝe that ſuld gif gude exempill</l>
+               <l>Of lyfe and warks to thame dois ȝow contempill.</l>
+               <l>It ſuld be ȝe that ſuld be at all tyme</l>
+               <l>Clene without ſpot, and purgit of all cryme.</l>
+               <l>It ſuld be ȝe Mother, it ſuld be ȝe</l>
+               <l>To quhome the pepill ſuld giue eir and Ee,</l>
+               <l>It ſuld be ȝe ſchortly I ſay no moir,</l>
+               <l>That to all vertewis ſuld ȝow Indeuoir.</l>
+            </lg>
+            <lg>
+               <l>¶ And ȝe my Barrouns and Nobilitie</l>
+               <l>That dois oppres my pure Communitie,</l>
+               <l>Quhair i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ȝour wit, ȝour reſſoun ſence and feill</l>
+               <pb facs="tcp:183824:9"/>
+               <l>To fle away my huſband Commoun weill,</l>
+               <l>Quhat haue ȝe wyn ſenſyne, lat ſe ȝour ganis?</l>
+               <l>Gar pryſe ȝour proffeit &amp; eſteme ȝour panis,</l>
+               <l>The panis I wait, the proffeit will ſurmont,</l>
+               <l>A greit daill moir nor ȝe can mak ȝour compt,</l>
+               <l>I find ſenſyne the Ȝow hes borne the bell,</l>
+               <l>Wyfis Maiſters bene in geuing haill Counſell.</l>
+               <l>To Lords and Lairds I ſpeik generallie</l>
+               <l>As may be ſene allace ouir weill on me.</l>
+               <l>Hwine Huntly Grange, and all ȝe of that ſyde</l>
+               <l>Behald now how ȝe do the mater gyde,</l>
+               <l>To caus my Siſters France &amp; Ingland ſcorne ȝow.</l>
+               <l>That walterars of Courts ȝe lat ſuborne ȝow,</l>
+               <l>Ȝit ȝe and thay did ſweir with aithis conding</l>
+               <l>And did ſybſcryue to be trew to the King.</l>
+               <l>In takin quhairof with all ȝe did aggre</l>
+               <l>To Crowne and place him in authoritie.</l>
+               <l>Gif ȝe wirk weill ȝour deids aue day will ſchaw</l>
+               <l>For raiſing fyre aganis my actis and law,</l>
+               <l>In halding towns and ſtrenths ȝour King aganis,</l>
+               <l>Hutting the reſt of ȝour brether to panis,</l>
+               <l>Quhome I excuſe not as I ſaid befoir</l>
+               <l>For I perſaif ambitioun and vane gloir</l>
+               <l>And gredynes, to reule dois blind ȝow baith,</l>
+               <l>Quhilk dois redound to my greit hurt and ſkaith.</l>
+               <l>Ȝour tennents pleuȝeis that thay ar oppreſt</l>
+               <l>Be ȝow and ȝours, that dois thame ſoir moleſt,</l>
+               <l>Ȝe hicht yair maills, yair pleuchs ȝe dowbil onyame</l>
+               <l>Thay tyne thair tyme at ſic things to opone yame</l>
+               <l>For na reſt will ȝe get into ȝour raggs</l>
+               <l>Gif ſum ſect knaw that thay haue geir or baggs,</l>
+               <l>Ȝour Nichtingaills will ſing ſa in ȝour cir<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <pb facs="tcp:183824:10"/>
+               <l>That ȝe ſall nichtly haue Domeſtik weiris,</l>
+               <l>Ȝone Carle (quod ſcho) my Ioy dois beinly dwell</l>
+               <l>And all prouiſioun hes within him ſell</l>
+               <l>In barne, in byre, in hall Girnell and Seller</l>
+               <l>His wyfe weiris weluot vn hir Gowne and Coller,</l>
+               <l>Thay ar ſa riche, that thay do vs miſknaw,</l>
+               <l>Than better ſone to drug nor lait to draw</l>
+               <l>Sone is his Gerſum hichtit and his Maillis,</l>
+               <l>Him ſelf growis waik, his geir and houſhald faillis</l>
+               <l>Quhair ſic wer wont to haue Guſe Cok and Hen</l>
+               <l>Breid drink and bedding to treit honeſt men,</l>
+               <l>Now drink thay Mylk, and Swaits in ſteid of Aill,</l>
+               <l>And glaid to get Peis breid and watter Caill,</l>
+               <l>Quhair ſic wer wont to ryde furth to the weir</l>
+               <l>With Iak and Sword, gude hors Knapſcall &amp; ſpeir</l>
+               <l>Quhair ſic wer wont brauely to mak thame bowne</l>
+               <l>With Lord or Laird to ryde to Gurrdwis towne,</l>
+               <l>Quhair ſic wer wont at all Games to be reddy</l>
+               <l>To ſchuit or loup, for to exerce thair body,</l>
+               <l>Now mon thay wirk and labour pech and pant</l>
+               <l>To pay thair Maiſters Maillis exhorbitant.</l>
+               <l>Ryue out the Mures, the beſtialls gers inrak</l>
+               <l>Thay ar ſa waik thay dow not beir a Iak.</l>
+               <l>And gets waik bairns euill nureiſt in diſtres,</l>
+               <l>Sa be ſit wayis my Commouns dois dicres</l>
+               <l>My torment ſair conſtrynis me this to ſpeik</l>
+               <l>Na merwell quhy, for I am wondrous ſeik.</l>
+               <l>Gefeiking ȝow my feiknes to remerd</l>
+               <l>Quhilk may be done, ceiffing ȝour Ciuile feid.</l>
+               <l>To follow Chriſt and his Commandement,</l>
+               <l>Quha ſaid befoir his laſt department</l>
+               <l>Ilk one lufe other with <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> freindly lufe</l>
+               <pb facs="tcp:183824:10"/>
+               <l>That ȝe may be the bairnis of God abufe,</l>
+               <l>And cleith ȝow with fair Garments clene &amp; quhyte,</l>
+               <l>Without malice, contentioun or diſpyte,</l>
+               <l>Aganis my cu<g ref="char:cmbAbbrStroke">̄</g>ming, quhilk trewly ſalbe</l>
+               <l>Quhen ȝe leiſt wene in twinkling of ane Ee.</l>
+               <l>Thus ſaid the Lord to ȝow and to all men</l>
+               <l>That be thir marks thay fall Gods children ken.</l>
+               <l>Heirfoir my Nobills ſeik peice do that ȝe can</l>
+               <l>To follow Chriſt and chais away Sathan,</l>
+               <l>With his Suppoſts and all that taks in hand</l>
+               <l>For to diuorſe me from my gude huſband.</l>
+            </lg>
+            <lg>
+               <l>¶ Now ȝe my Burges, Craftis &amp; Merchand men</l>
+               <l>And ȝe my Commounis with my hynd ȝemen,</l>
+               <l>To ȝow I haue ſum purpois for to ſay</l>
+               <l>How, quhen, and quhy, my huſband fled away,</l>
+               <l>Firſt thair come in lurkand vpon ȝour gait</l>
+               <l>Pryde and Inuy, with falſet and diſſait.</l>
+               <l>Quhat ſuld thay ſeik lang tyme thay lay thairout.</l>
+               <l>Till ane Ȝule euin ȝour wyfes to counſall went.</l>
+               <l>Than ſpak ane Lawers wyfe baith trym and gent,</l>
+               <l>Cu<g ref="char:cmbAbbrStroke">̄</g>mers (qood ſcho) it is pietie to ſe</l>
+               <l>Folk in a towne for cauld and hounger die,</l>
+               <l>It is mair ſchame in Burgh for to ſe beggers</l>
+               <l>Nor it is ſkaith in Crawmont to want dreggers.</l>
+               <l>Quhairof dois ſerue our greit cheir and fair bigging</l>
+               <l>Bot for to help the pure that gais a thigging?</l>
+               <l>Quhairof do is ſerue our huſbands gold and rent</l>
+               <l>Bot to ſuſtene the pure and Indigent?</l>
+               <l>Ȝit lar vs ludge ȝone twa that gais befoir</l>
+               <l>Pryde and Inuy, gif we will do no moir.</l>
+               <l>And gif our huſbands ſpeirs quhy did we ſo</l>
+               <pb facs="tcp:183824:11"/>
+               <l>Anſwer we may we left thame vther two.</l>
+               <l>Now gif ȝe pleis Cummers I fall begin</l>
+               <l>This ſame cauld nicht to tak ane of thame in,</l>
+               <l>We knaw thame not (quod thay) hot tak ȝe ane</l>
+               <l>We muſt not leif the vther bird alane.</l>
+               <l>Sa thay did ſkaill, and ſcho tuke with hir pryde</l>
+               <l>And on the morne ſcho come furth lyke ane bryde,</l>
+               <l>With hir new Baiſt als proud as ane Paycok,</l>
+               <l>And in hir hart ſcho did hir Cummers mok:</l>
+               <l>Quhilk quhen thay ſaw, with ſpcid thay ran in hy</l>
+               <l>And for diſpyte amangs thame ludgeit Inuy,</l>
+               <l>In counterfuting hir in all kin things,</l>
+               <l>Courche, Coller, Cloik, Belt, Braiſſets &amp; Rings.</l>
+               <l>Than wox the Lawers wyfe richt proude in hart</l>
+               <l>Bot ȝit hir Cummers call it ſcho apart,</l>
+               <l>Saying Cummers, quhat is the caus and quhy</l>
+               <l>That in diſpyte of me ȝe treit Inny?</l>
+               <l>Becaus (quod thay) that ȝe alone tuik pryde,</l>
+               <l>And thocht that we ſuld not marche ȝow beſyde.</l>
+               <l>Thairfoir we thocht, in that point ȝe did wrang vs,</l>
+               <l>Aggre (quod ſcho) and ludge thame haith amang vs</l>
+               <l>Quhilk thing thay did, and all did condiſcend</l>
+               <l>To treit and keip thame to the warlds end.</l>
+               <l>Thus hes ȝour wyfis thir twa tane to be thairs,</l>
+               <l>And left the vther twa for ȝour affairs,</l>
+               <l>Quhilk ſeing ȝe and ȝour wairs gros and grof</l>
+               <l>And with ȝour wyfis thir two ſo muche maid of,</l>
+               <l>Ȝe gros geir left, and went for wynt and ſpyces,</l>
+               <l>Frenche claith and ſilks for to cleith vp thir vyces,</l>
+               <l>Quhilks for to out with dow bill met and meſure</l>
+               <l>The vther tway ȝe ludgeit at thair pleſure.</l>
+               <l>Quhat wald ȝe moir ȝe wait weilt quhat I mene</l>
+               <pb facs="tcp:183824:11"/>
+               <l>Diſinge thame now and chais thame from yow clene</l>
+            </lg>
+            <lg>
+               <l>¶ Ȝe Hammer men, ȝe that maks ſchois &amp; claiths</l>
+               <l>Ȝe treit thir twa with mony maneſworne aiths,</l>
+               <l>And ȝe lykewiſe all Crafts in Generall</l>
+               <l>Alaik I feill ȝow to thame bound and thrall,</l>
+               <l>Mairouir ȝour drinking Extraordinair</l>
+               <l>Maks oft ȝour wyfis and biarns euill to fair,</l>
+               <l>Quhen ȝe wald drink in hous ȝe may be bauld</l>
+               <l>To do the ſame at hame with ȝour houſhauld.</l>
+               <l>All byganis mend in tyme to cum luik ȝe,</l>
+               <l>Begyle na man bot wirk ȝour wark trewlie.</l>
+            </lg>
+            <lg>
+               <l>¶ To yow my Commouns quhat mait can I ſay:</l>
+               <l>I pietie yow as far furth as I may,</l>
+               <l>Now pure ȝe ar, ȝit purer wald ȝe be</l>
+               <l>For vſing proud pure Prodigalitie.</l>
+               <l>Thair is na Lord nor Laird in all this land</l>
+               <l>Bot ye man counterfait in claiths fra hand,</l>
+               <l>Fra top to ta, thocht ye ſuld beg and borrow,</l>
+               <l>Iohne ga your way for it will not be forrow</l>
+               <l>Ȝe ſuld your ground grube with Simplicitie,</l>
+               <l>And mak your claiths conforme to your degre.</l>
+               <l>Bot ye your wyfe and bairns can tak na reſt</l>
+               <l>Without ye counterfait the worthyeſt,</l>
+               <l>Buft brawlit hois, Coit, Dowblet, ſark and ſcho,</l>
+               <l>Ȝour wyfe and bairns conforme mon be thairto</l>
+               <l>Leif of, and leirne your bairns to ſaw and teill,</l>
+               <l>Sic doings chaiſt away the Commoun weill.</l>
+               <l>All thir foirfalts that I haue done reheirs</l>
+               <l>That Lords, Lairds, Ladys, &amp; Lawers dois exerce,</l>
+               <l>Kirk, Burges, Merchand, Co<g ref="char:cmbAbbrStroke">̄</g>mouns Crafts and all</l>
+               <l>Hes haill the wyte of this my wofull fall.</l>
+               <l>Amend heirfoir, and call to God for Grace,</l>
+               <pb facs="tcp:183824:12"/>
+               <l>Beſeiking him to gif vs reſt and peace.</l>
+               <l>In our lyfe tyme that we may trewly knaw</l>
+               <l>Ane God Eterne, ane Faith, ane King, ane law,</l>
+               <l>And at the laſt to bring vs to his gloir</l>
+               <l>To King with him in blys for euer moir. Amen.</l>
+            </lg>
+            <div type="conclusion">
+               <head>The Concluſioun be P. R. to all and ſum.</head>
+               <lg>
+                  <l>¶ All that this reids the mater ſad will think</l>
+                  <l>Sum that this heiris I wait will diſcommendée</l>
+                  <l>Thocht all and ſum heir at partly do ſchrink</l>
+                  <l>Ȝit ſory I that thay ſuld be offendit</l>
+                  <l>Heirfoir I wald that this wer blythlie endit</l>
+                  <l>For to mak all or ſum lauch at the laſt</l>
+                  <l>Than all and ſum ſall heir in tyme by paſt</l>
+                  <l>Quhen Fornicatioun haldin was na cryme</l>
+                  <l>How that ſum Prelats did walk pray and faſt</l>
+                  <l>And ſerue in Kirk according to that tyme.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <g ref="char:leaf">❧</g> A Prelat ane day in his bed to ſport him</l>
+                  <l>Did clap his lufe with kiſſis ſoft and ſweit</l>
+                  <l>In this meane tyme thair was to recomfort him</l>
+                  <l>Peirtryks and Pleuers pyping on the ſpeit</l>
+                  <l>Than vp he rais, and maid him for thame meit</l>
+                  <l>With gude quhyte wyne and all the partinence</l>
+                  <l>Quhen he had tane this on his Couſcience</l>
+                  <l>He gaif ane greit pech lyke ane weill fed ſtitk</l>
+                  <l>Och Lord (quod he) now gif me patience</l>
+                  <l>Quhat ſtres thoill we to ſerue thy haly Kirk<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+            </div>
+            <trailer>☞ FINIS.</trailer>
+            <pb facs="tcp:183824:12"/>
+            <pb facs="tcp:183824:13"/>
+            <pb facs="tcp:183824:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
